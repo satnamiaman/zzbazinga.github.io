@@ -1,2 +1,2 @@
 #### Personal website
-## Visit: <a href="http://amansatnami.me/">http://amansatnami.me</a>
+## Visit: <a href="http://zzbazinga.github.io/">http://zzbazinga.github.io</a>
